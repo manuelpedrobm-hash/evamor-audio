@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-09-18.1",
+  "tracks": [
+    {
+      "id": "group-sitting-long-instructions-en",
+      "title": "Group Sitting · Long Instructions",
+      "detail": "S. N. Goenka · English · Salila, Dehradun",
+      "durationSeconds": 3872.715465,
+      "standalone": true,
+      "sha256": "e337872c8a683b6461586b37612be4f4f94dac8707bd3141185eed45cb1ed8a1",
+      "byteCount": 62678565,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-long-instructions-en.m4a"
+    },
+    {
+      "id": "group-sitting-short-instructions-en",
+      "title": "Group Sitting · Short Instructions",
+      "detail": "S. N. Goenka · English · Salila, Dehradun",
+      "durationSeconds": 3956.91102,
+      "standalone": true,
+      "sha256": "44162d3424f029175710e541e0d3778210a0f4f40afd54909b685875d4ce5df4",
+      "byteCount": 64040266,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-short-instructions-en.m4a"
+    },
+    {
+      "id": "group-sitting-giri-igatpuri-en",
+      "title": "Group Sitting · Giri",
+      "detail": "S. N. Goenka · English · Igatpuri",
+      "durationSeconds": 3821.213605,
+      "standalone": true,
+      "sha256": "a5b7b03bd706d0343c10acf961ed758c283d243e167bc9014f889e43a09e10f6",
+      "byteCount": 61844811,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-giri-igatpuri-en.m4a"
+    },
+    {
+      "id": "group-sitting-setu-chennai-en",
+      "title": "Group Sitting · Setu",
+      "detail": "S. N. Goenka · English · Chennai",
+      "durationSeconds": 3900.277551,
+      "standalone": true,
+      "sha256": "6a9b031b0c9d3af83254041db8a87a40a0fd075204d3d2a40e4c165597874d85",
+      "byteCount": 63124243,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-setu-chennai-en.m4a"
+    },
+    {
+      "id": "group-sitting-shikhara-dharamshala-en",
+      "title": "Group Sitting · Shikhara",
+      "detail": "S. N. Goenka · English · Dharamshala",
+      "durationSeconds": 3909.449433,
+      "standalone": true,
+      "sha256": "c3d4804e6e41731c2c8c1604e020026685403270850294978aa9a6be9058c8b2",
+      "byteCount": 63272549,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-shikhara-dharamshala-en.m4a"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "profile-group-long-en",
+      "name": "Grupo · instrucciones largas",
+      "detail": "Sesión completa en inglés · 1 h 5 min",
+      "minutes": 65,
+      "trackID": "group-sitting-long-instructions-en"
+    },
+    {
+      "id": "profile-group-short-en",
+      "name": "Grupo · instrucciones cortas",
+      "detail": "Sesión completa en inglés · 1 h 6 min",
+      "minutes": 66,
+      "trackID": "group-sitting-short-instructions-en"
+    },
+    {
+      "id": "profile-group-giri-en",
+      "name": "Grupo · Giri, Igatpuri",
+      "detail": "Sesión completa en inglés · 1 h 4 min",
+      "minutes": 64,
+      "trackID": "group-sitting-giri-igatpuri-en"
+    },
+    {
+      "id": "profile-group-setu-en",
+      "name": "Grupo · Setu, Chennai",
+      "detail": "Sesión completa en inglés · 1 h 5 min",
+      "minutes": 65,
+      "trackID": "group-sitting-setu-chennai-en"
+    },
+    {
+      "id": "profile-group-shikhara-en",
+      "name": "Grupo · Shikhara, Dharamshala",
+      "detail": "Sesión completa en inglés · 1 h 5 min",
+      "minutes": 65,
+      "trackID": "group-sitting-shikhara-dharamshala-en"
+    }
+  ]
+}
