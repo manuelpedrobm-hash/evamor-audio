@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-18.1",
+  "revision": "2026-09-18.2",
   "tracks": [
     {
       "id": "group-sitting-long-instructions-en",
@@ -51,6 +51,76 @@
       "sha256": "c3d4804e6e41731c2c8c1604e020026685403270850294978aa9a6be9058c8b2",
       "byteCount": 63272549,
       "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/group-sitting-shikhara-dharamshala-en.m4a"
+    },
+    {
+      "id": "chanting-day01-en",
+      "title": "Morning Chants · Day 1",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 2023.3404,
+      "standalone": true,
+      "sha256": "98b0b40e6f71b74dcce9c4be2b483418b5f065d134fc2335630260d1736c05cd",
+      "byteCount": 80933616,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day01-en.mp3"
+    },
+    {
+      "id": "chanting-day02-en",
+      "title": "Morning Chants · Day 2",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 1792.75755,
+      "standalone": true,
+      "sha256": "116af0c4c97627d6138cb011e998f3792b4f78b9d2defb93bf84223e898331f1",
+      "byteCount": 71710302,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day02-en.mp3"
+    },
+    {
+      "id": "chanting-day04-en",
+      "title": "Morning Chants · Day 4",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 1967.20325,
+      "standalone": true,
+      "sha256": "97d21d232e52ad14fbb6797d0b360b1821b34eec732c2e653ef95dfb489ed164",
+      "byteCount": 78688130,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day04-en.mp3"
+    },
+    {
+      "id": "chanting-day06-en",
+      "title": "Morning Chants · Day 6",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 1956.806525,
+      "standalone": true,
+      "sha256": "50d3dee2942d8caed93ad13cf9ef2265037e8497db67f61639da7c6363115f3f",
+      "byteCount": 78272261,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day06-en.mp3"
+    },
+    {
+      "id": "chanting-day09-en",
+      "title": "Morning Chants · Day 9",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 1826.5861,
+      "standalone": true,
+      "sha256": "985259680caf68a6fe857ed81b4a7c12b45f215c29e5ee174d69397abf6cf4a5",
+      "byteCount": 73063444,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day09-en.mp3"
+    },
+    {
+      "id": "chanting-day10-en",
+      "title": "Morning Chants · Day 10",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 2134.4653,
+      "standalone": true,
+      "sha256": "ff4ac2d42c9f8b8f6ea327ae35e2253f7f41076fbc96b7ff52b837004ff10765",
+      "byteCount": 85378612,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day10-en.mp3"
+    },
+    {
+      "id": "chanting-day11-en",
+      "title": "Morning Chants · Day 11",
+      "detail": "S. N. Goenka · English · 10-Day Course",
+      "durationSeconds": 1081.129775,
+      "standalone": true,
+      "sha256": "7a47214e1ee874d155c6fee06a03d7154215ae02d2623241939d618717b44c0b",
+      "byteCount": 43245191,
+      "downloadURL": "https://manuelpedrobm-hash.github.io/evamor-audio/chanting-day11-en.mp3"
     }
   ],
   "profiles": [
@@ -88,6 +158,55 @@
       "detail": "Sesión completa en inglés · 1 h 5 min",
       "minutes": 65,
       "trackID": "group-sitting-shikhara-dharamshala-en"
+    },
+    {
+      "id": "profile-chanting-day01-en",
+      "name": "Cantos matutinos · Day 1",
+      "detail": "Sesión completa en inglés · 34 min",
+      "minutes": 34,
+      "trackID": "chanting-day01-en"
+    },
+    {
+      "id": "profile-chanting-day02-en",
+      "name": "Cantos matutinos · Day 2",
+      "detail": "Sesión completa en inglés · 30 min",
+      "minutes": 30,
+      "trackID": "chanting-day02-en"
+    },
+    {
+      "id": "profile-chanting-day04-en",
+      "name": "Cantos matutinos · Day 4",
+      "detail": "Sesión completa en inglés · 33 min",
+      "minutes": 33,
+      "trackID": "chanting-day04-en"
+    },
+    {
+      "id": "profile-chanting-day06-en",
+      "name": "Cantos matutinos · Day 6",
+      "detail": "Sesión completa en inglés · 33 min",
+      "minutes": 33,
+      "trackID": "chanting-day06-en"
+    },
+    {
+      "id": "profile-chanting-day09-en",
+      "name": "Cantos matutinos · Day 9",
+      "detail": "Sesión completa en inglés · 30 min",
+      "minutes": 30,
+      "trackID": "chanting-day09-en"
+    },
+    {
+      "id": "profile-chanting-day10-en",
+      "name": "Cantos matutinos · Day 10",
+      "detail": "Sesión completa en inglés · 36 min",
+      "minutes": 36,
+      "trackID": "chanting-day10-en"
+    },
+    {
+      "id": "profile-chanting-day11-en",
+      "name": "Cantos matutinos · Day 11",
+      "detail": "Sesión completa en inglés · 18 min",
+      "minutes": 18,
+      "trackID": "chanting-day11-en"
     }
   ]
 }
